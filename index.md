@@ -1,3 +1,3 @@
-## R Markdown and Leaflet
+##Peer graded assignment: R Markdown and Leaflet
 
-You can use the [editor on GitHub](https://github.com/mi-prata/DevelopingDataProducts/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In 2016 I backpacked along the Trans-Siberian with two friends. This map shows the stops I did along the way!
