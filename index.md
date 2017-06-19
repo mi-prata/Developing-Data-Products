@@ -5,11 +5,10 @@ date: "19/06/2017"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 In 2016 I backpacked along the Trans-Siberian railway with two friends. This map shows the main stops I did along the way!
+
+
 
 ```{r map, echo = FALSE}
 library(leaflet)
