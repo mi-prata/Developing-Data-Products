@@ -1,6 +1,10 @@
 ## Peer graded assignment: R Markdown and Leaflet
 
 In 2016 I backpacked along the Trans-Siberian railway with two friends. This map shows the main stops I did along the way!
+
+
+
+```{ echo=FALSE}
 library(leaflet)
 
 my_map <- leaflet() 
@@ -39,7 +43,7 @@ my_map <- my_map %>% addProviderTiles(providers$CartoDB.Positron) %>%
         addPolylines(mapData, lng=mapData$lng,lat=mapData$lat,smoothFactor=3,color="#000")
 
 
-
-
+my_map
+```
 
 ###### Page creation date: 18 June 2017. 
