@@ -1,5 +1,5 @@
 ---
-title: "Peer graded assignment: R Markdown and Leaflet"
+title: "Trans-Siberian Railway Main Stops"
 author: "Miguel Prata"
 date: "19/06/2017"
 output: html_document
